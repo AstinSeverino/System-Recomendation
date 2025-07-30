@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/1cf53e60d1424f8c9a14ed446cc222a8/artifacts
+end_time: 1753399739985
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 1cf53e60d1424f8c9a14ed446cc222a8
+run_name: luxuriant-crab-913
+run_uuid: 1cf53e60d1424f8c9a14ed446cc222a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399721276
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/89fb4f9b92f147978c89ba051d4ea3d9/artifacts
+end_time: 1752796029758
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 89fb4f9b92f147978c89ba051d4ea3d9
+run_name: delicate-frog-21
+run_uuid: 89fb4f9b92f147978c89ba051d4ea3d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796021159
+status: 3
+tags: []
+user_id: astin

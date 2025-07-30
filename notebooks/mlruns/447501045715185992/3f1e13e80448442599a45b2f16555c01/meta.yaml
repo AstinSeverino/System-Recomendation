@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/3f1e13e80448442599a45b2f16555c01/artifacts
+end_time: 1752542820909
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 3f1e13e80448442599a45b2f16555c01
+run_name: mercurial-lynx-129
+run_uuid: 3f1e13e80448442599a45b2f16555c01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542811941
+status: 3
+tags: []
+user_id: astin

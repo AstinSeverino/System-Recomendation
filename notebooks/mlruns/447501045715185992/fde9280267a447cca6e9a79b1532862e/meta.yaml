@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/fde9280267a447cca6e9a79b1532862e/artifacts
+end_time: 1752796252893
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: fde9280267a447cca6e9a79b1532862e
+run_name: resilient-whale-116
+run_uuid: fde9280267a447cca6e9a79b1532862e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796241570
+status: 3
+tags: []
+user_id: astin

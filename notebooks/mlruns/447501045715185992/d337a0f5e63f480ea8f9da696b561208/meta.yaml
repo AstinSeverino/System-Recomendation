@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/d337a0f5e63f480ea8f9da696b561208/artifacts
+end_time: 1752795682520
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: d337a0f5e63f480ea8f9da696b561208
+run_name: redolent-gnat-513
+run_uuid: d337a0f5e63f480ea8f9da696b561208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795671733
+status: 3
+tags: []
+user_id: astin

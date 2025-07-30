@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/4bba4c6add80429a89237e234273f188/artifacts
+end_time: 1753399758937
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 4bba4c6add80429a89237e234273f188
+run_name: placid-lynx-660
+run_uuid: 4bba4c6add80429a89237e234273f188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399742416
+status: 3
+tags: []
+user_id: astin

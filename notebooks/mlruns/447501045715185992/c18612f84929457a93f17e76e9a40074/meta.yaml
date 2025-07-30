@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/c18612f84929457a93f17e76e9a40074/artifacts
+end_time: 1752542695324
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: c18612f84929457a93f17e76e9a40074
+run_name: glamorous-crane-614
+run_uuid: c18612f84929457a93f17e76e9a40074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542686313
+status: 3
+tags: []
+user_id: astin

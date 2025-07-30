@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/482306760730758462/ee07d823c45648a5bf95f966d60ac185/artifacts
+end_time: 1752538382870
+entry_point_name: ''
+experiment_id: '482306760730758462'
+lifecycle_stage: active
+run_id: ee07d823c45648a5bf95f966d60ac185
+run_name: trial_39
+run_uuid: ee07d823c45648a5bf95f966d60ac185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752538376189
+status: 3
+tags: []
+user_id: astin

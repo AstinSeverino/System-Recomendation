@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/da63068bebf74c63b9ece2a65731bfae/artifacts
+end_time: 1752795591646
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: da63068bebf74c63b9ece2a65731bfae
+run_name: unleashed-mink-88
+run_uuid: da63068bebf74c63b9ece2a65731bfae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795582842
+status: 3
+tags: []
+user_id: astin

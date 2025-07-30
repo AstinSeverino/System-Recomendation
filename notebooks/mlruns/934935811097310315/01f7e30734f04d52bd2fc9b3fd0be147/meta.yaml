@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/01f7e30734f04d52bd2fc9b3fd0be147/artifacts
+end_time: 1753399508038
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 01f7e30734f04d52bd2fc9b3fd0be147
+run_name: delightful-mare-190
+run_uuid: 01f7e30734f04d52bd2fc9b3fd0be147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399503808
+status: 3
+tags: []
+user_id: astin

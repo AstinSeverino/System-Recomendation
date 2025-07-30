@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/e5521b85faa6406cb3d6fc35ac0e6a72/artifacts
+end_time: 1752542936842
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: e5521b85faa6406cb3d6fc35ac0e6a72
+run_name: dapper-trout-632
+run_uuid: e5521b85faa6406cb3d6fc35ac0e6a72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542928047
+status: 3
+tags: []
+user_id: astin

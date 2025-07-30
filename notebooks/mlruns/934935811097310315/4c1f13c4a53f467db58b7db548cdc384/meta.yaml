@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/4c1f13c4a53f467db58b7db548cdc384/artifacts
+end_time: 1753399742412
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 4c1f13c4a53f467db58b7db548cdc384
+run_name: bald-loon-354
+run_uuid: 4c1f13c4a53f467db58b7db548cdc384
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399741215
+status: 3
+tags: []
+user_id: astin

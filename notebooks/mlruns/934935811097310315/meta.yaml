@@ -1,0 +1,6 @@
+artifact_location: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315
+creation_time: 1753399472590
+experiment_id: '934935811097310315'
+last_update_time: 1753399472590
+lifecycle_stage: active
+name: dbscan_optuna_clustering

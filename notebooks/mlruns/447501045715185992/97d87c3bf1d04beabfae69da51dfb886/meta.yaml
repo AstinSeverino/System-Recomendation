@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/97d87c3bf1d04beabfae69da51dfb886/artifacts
+end_time: 1752795489166
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 97d87c3bf1d04beabfae69da51dfb886
+run_name: serious-mole-575
+run_uuid: 97d87c3bf1d04beabfae69da51dfb886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795479104
+status: 3
+tags: []
+user_id: astin

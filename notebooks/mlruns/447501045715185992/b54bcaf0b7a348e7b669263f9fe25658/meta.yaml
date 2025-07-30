@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/b54bcaf0b7a348e7b669263f9fe25658/artifacts
+end_time: 1752542829996
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: b54bcaf0b7a348e7b669263f9fe25658
+run_name: placid-newt-469
+run_uuid: b54bcaf0b7a348e7b669263f9fe25658
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542820912
+status: 3
+tags: []
+user_id: astin

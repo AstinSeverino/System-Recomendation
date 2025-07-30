@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/830d899e08aa4d1ea707519232902839/artifacts
+end_time: 1752796127439
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 830d899e08aa4d1ea707519232902839
+run_name: popular-dolphin-91
+run_uuid: 830d899e08aa4d1ea707519232902839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796120035
+status: 3
+tags: []
+user_id: astin

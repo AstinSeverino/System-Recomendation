@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/e8bf807633264cfea439c78125749ef2/artifacts
+end_time: 1753409455338
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: e8bf807633264cfea439c78125749ef2
+run_name: marvelous-doe-411
+run_uuid: e8bf807633264cfea439c78125749ef2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409453420
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/210368f6599541dea36aa3b3b7f8f36b/artifacts
+end_time: 1753409578310
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 210368f6599541dea36aa3b3b7f8f36b
+run_name: clean-stag-394
+run_uuid: 210368f6599541dea36aa3b3b7f8f36b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409574978
+status: 3
+tags: []
+user_id: astin

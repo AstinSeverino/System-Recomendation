@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/684f01673a7d494781c7c5a91b5ccb32/artifacts
+end_time: 1752542892830
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 684f01673a7d494781c7c5a91b5ccb32
+run_name: omniscient-bass-15
+run_uuid: 684f01673a7d494781c7c5a91b5ccb32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542883914
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/98f0729ec293483dbf8e1fb341b4c02c/artifacts
+end_time: 1753409673577
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 98f0729ec293483dbf8e1fb341b4c02c
+run_name: angry-asp-952
+run_uuid: 98f0729ec293483dbf8e1fb341b4c02c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409671958
+status: 3
+tags: []
+user_id: astin

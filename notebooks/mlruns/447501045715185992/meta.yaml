@@ -1,0 +1,6 @@
+artifact_location: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992
+creation_time: 1752542613868
+experiment_id: '447501045715185992'
+last_update_time: 1752542613868
+lifecycle_stage: active
+name: kmeans_optuna_clustering

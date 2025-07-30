@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/f2159bfb91b049d8bef211c88f8cabbd/artifacts
+end_time: 1752795693058
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: f2159bfb91b049d8bef211c88f8cabbd
+run_name: legendary-zebra-83
+run_uuid: f2159bfb91b049d8bef211c88f8cabbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795682523
+status: 3
+tags: []
+user_id: astin

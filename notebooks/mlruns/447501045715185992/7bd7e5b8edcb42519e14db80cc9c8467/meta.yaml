@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/7bd7e5b8edcb42519e14db80cc9c8467/artifacts
+end_time: 1752795651368
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 7bd7e5b8edcb42519e14db80cc9c8467
+run_name: mercurial-robin-508
+run_uuid: 7bd7e5b8edcb42519e14db80cc9c8467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795643656
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/856d63a44eb1466c9a1c5fbf4714c16c/artifacts
+end_time: 1752795458991
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 856d63a44eb1466c9a1c5fbf4714c16c
+run_name: vaunted-bat-329
+run_uuid: 856d63a44eb1466c9a1c5fbf4714c16c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795452350
+status: 3
+tags: []
+user_id: astin

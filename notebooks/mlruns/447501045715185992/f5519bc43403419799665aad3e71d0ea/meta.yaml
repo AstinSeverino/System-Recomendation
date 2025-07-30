@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/f5519bc43403419799665aad3e71d0ea/artifacts
+end_time: 1752542717997
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: f5519bc43403419799665aad3e71d0ea
+run_name: omniscient-hog-143
+run_uuid: f5519bc43403419799665aad3e71d0ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542707426
+status: 3
+tags: []
+user_id: astin

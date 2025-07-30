@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/f7d838c140224998b2aff6b8a1f5f4ca/artifacts
+end_time: 1752542874897
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: f7d838c140224998b2aff6b8a1f5f4ca
+run_name: painted-sow-925
+run_uuid: f7d838c140224998b2aff6b8a1f5f4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542865716
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/3449c31c5ac14f148d5fdb6995e51d9c/artifacts
+end_time: 1752796142550
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 3449c31c5ac14f148d5fdb6995e51d9c
+run_name: enchanting-fish-206
+run_uuid: 3449c31c5ac14f148d5fdb6995e51d9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796134807
+status: 3
+tags: []
+user_id: astin

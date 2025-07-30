@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/1c4c21a59c4749688d9f0657d2a4d27a/artifacts
+end_time: 1753399591925
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 1c4c21a59c4749688d9f0657d2a4d27a
+run_name: unleashed-panda-869
+run_uuid: 1c4c21a59c4749688d9f0657d2a4d27a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399575215
+status: 3
+tags: []
+user_id: astin

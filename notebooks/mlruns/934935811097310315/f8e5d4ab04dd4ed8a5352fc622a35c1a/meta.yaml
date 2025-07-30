@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/f8e5d4ab04dd4ed8a5352fc622a35c1a/artifacts
+end_time: 1753409562336
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: f8e5d4ab04dd4ed8a5352fc622a35c1a
+run_name: colorful-rat-848
+run_uuid: f8e5d4ab04dd4ed8a5352fc622a35c1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409561368
+status: 3
+tags: []
+user_id: astin

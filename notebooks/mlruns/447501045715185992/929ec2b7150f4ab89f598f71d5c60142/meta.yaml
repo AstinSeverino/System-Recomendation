@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/929ec2b7150f4ab89f598f71d5c60142/artifacts
+end_time: 1752795546027
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 929ec2b7150f4ab89f598f71d5c60142
+run_name: secretive-fox-731
+run_uuid: 929ec2b7150f4ab89f598f71d5c60142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795537912
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/52c446593dcc4257b0a3b3a9a5958335/artifacts
+end_time: 1753409662745
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 52c446593dcc4257b0a3b3a9a5958335
+run_name: selective-turtle-743
+run_uuid: 52c446593dcc4257b0a3b3a9a5958335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409659941
+status: 3
+tags: []
+user_id: astin

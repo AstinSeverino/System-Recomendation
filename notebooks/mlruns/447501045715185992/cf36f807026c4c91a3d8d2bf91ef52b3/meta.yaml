@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/cf36f807026c4c91a3d8d2bf91ef52b3/artifacts
+end_time: 1752795422628
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: cf36f807026c4c91a3d8d2bf91ef52b3
+run_name: upbeat-mink-487
+run_uuid: cf36f807026c4c91a3d8d2bf91ef52b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795411399
+status: 3
+tags: []
+user_id: astin

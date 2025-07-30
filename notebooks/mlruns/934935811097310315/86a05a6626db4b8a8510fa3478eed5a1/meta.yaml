@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/86a05a6626db4b8a8510fa3478eed5a1/artifacts
+end_time: 1753399656248
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 86a05a6626db4b8a8510fa3478eed5a1
+run_name: learned-dove-987
+run_uuid: 86a05a6626db4b8a8510fa3478eed5a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399648845
+status: 3
+tags: []
+user_id: astin

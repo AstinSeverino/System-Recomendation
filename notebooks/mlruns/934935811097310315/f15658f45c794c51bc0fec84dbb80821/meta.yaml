@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/f15658f45c794c51bc0fec84dbb80821/artifacts
+end_time: 1753409593463
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: f15658f45c794c51bc0fec84dbb80821
+run_name: blushing-chimp-538
+run_uuid: f15658f45c794c51bc0fec84dbb80821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409578313
+status: 3
+tags: []
+user_id: astin

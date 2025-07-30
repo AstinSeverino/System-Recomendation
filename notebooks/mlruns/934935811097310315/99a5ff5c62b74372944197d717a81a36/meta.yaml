@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/99a5ff5c62b74372944197d717a81a36/artifacts
+end_time: 1753409618447
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 99a5ff5c62b74372944197d717a81a36
+run_name: enthused-vole-313
+run_uuid: 99a5ff5c62b74372944197d717a81a36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409615985
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/054bf19777f84ce082beb4948d4e07a0/artifacts
+end_time: 1752542945247
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 054bf19777f84ce082beb4948d4e07a0
+run_name: agreeable-gull-146
+run_uuid: 054bf19777f84ce082beb4948d4e07a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542936845
+status: 3
+tags: []
+user_id: astin

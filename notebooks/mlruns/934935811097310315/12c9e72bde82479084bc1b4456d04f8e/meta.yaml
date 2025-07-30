@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/12c9e72bde82479084bc1b4456d04f8e/artifacts
+end_time: 1753409696333
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 12c9e72bde82479084bc1b4456d04f8e
+run_name: handsome-mare-515
+run_uuid: 12c9e72bde82479084bc1b4456d04f8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409673580
+status: 3
+tags: []
+user_id: astin

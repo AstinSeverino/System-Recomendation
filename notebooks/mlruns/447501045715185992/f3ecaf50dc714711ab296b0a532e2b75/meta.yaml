@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/f3ecaf50dc714711ab296b0a532e2b75/artifacts
+end_time: 1752795513789
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: f3ecaf50dc714711ab296b0a532e2b75
+run_name: tasteful-shrew-301
+run_uuid: f3ecaf50dc714711ab296b0a532e2b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795505719
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/f8d19b3228ec46d4ab6c47af33df8263/artifacts
+end_time: 1753399630202
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: f8d19b3228ec46d4ab6c47af33df8263
+run_name: fearless-newt-999
+run_uuid: f8d19b3228ec46d4ab6c47af33df8263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399625727
+status: 3
+tags: []
+user_id: astin

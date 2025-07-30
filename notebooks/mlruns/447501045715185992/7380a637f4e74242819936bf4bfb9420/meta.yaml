@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/7380a637f4e74242819936bf4bfb9420/artifacts
+end_time: 1752795497305
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 7380a637f4e74242819936bf4bfb9420
+run_name: treasured-shark-982
+run_uuid: 7380a637f4e74242819936bf4bfb9420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795489169
+status: 3
+tags: []
+user_id: astin

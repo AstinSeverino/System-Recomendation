@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/09f7d9bf3b204b8ba1c7af2f8c63ee96/artifacts
+end_time: 1752542707419
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 09f7d9bf3b204b8ba1c7af2f8c63ee96
+run_name: chill-roo-15
+run_uuid: 09f7d9bf3b204b8ba1c7af2f8c63ee96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542695328
+status: 3
+tags: []
+user_id: astin

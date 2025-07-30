@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/31168168a74c426e84d91b82a4a1819f/artifacts
+end_time: 1752796288337
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 31168168a74c426e84d91b82a4a1819f
+run_name: silent-squirrel-600
+run_uuid: 31168168a74c426e84d91b82a4a1819f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796279776
+status: 3
+tags: []
+user_id: astin

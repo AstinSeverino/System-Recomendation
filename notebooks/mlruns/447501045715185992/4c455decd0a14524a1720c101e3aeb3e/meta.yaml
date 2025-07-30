@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/4c455decd0a14524a1720c101e3aeb3e/artifacts
+end_time: 1752795479101
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 4c455decd0a14524a1720c101e3aeb3e
+run_name: glamorous-frog-494
+run_uuid: 4c455decd0a14524a1720c101e3aeb3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795469686
+status: 3
+tags: []
+user_id: astin

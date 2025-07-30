@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/b5dbf3b313a14ce0a118a92da0dc2518/artifacts
+end_time: 1752796304344
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: b5dbf3b313a14ce0a118a92da0dc2518
+run_name: vaunted-cod-45
+run_uuid: b5dbf3b313a14ce0a118a92da0dc2518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796296903
+status: 3
+tags: []
+user_id: astin

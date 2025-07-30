@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/a9ee35f479414270ac040130b2853c34/artifacts
+end_time: 1753409606763
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: a9ee35f479414270ac040130b2853c34
+run_name: gifted-chimp-460
+run_uuid: a9ee35f479414270ac040130b2853c34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409602755
+status: 3
+tags: []
+user_id: astin

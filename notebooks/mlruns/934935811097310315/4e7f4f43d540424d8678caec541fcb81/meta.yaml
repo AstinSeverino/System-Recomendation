@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/4e7f4f43d540424d8678caec541fcb81/artifacts
+end_time: 1753409602752
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 4e7f4f43d540424d8678caec541fcb81
+run_name: silent-stork-609
+run_uuid: 4e7f4f43d540424d8678caec541fcb81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409600404
+status: 3
+tags: []
+user_id: astin

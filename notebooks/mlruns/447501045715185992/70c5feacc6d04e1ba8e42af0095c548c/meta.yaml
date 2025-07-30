@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/70c5feacc6d04e1ba8e42af0095c548c/artifacts
+end_time: 1752796207371
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 70c5feacc6d04e1ba8e42af0095c548c
+run_name: fearless-vole-744
+run_uuid: 70c5feacc6d04e1ba8e42af0095c548c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796199584
+status: 3
+tags: []
+user_id: astin

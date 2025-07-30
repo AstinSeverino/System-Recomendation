@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/06609e2b42bd4db7ad0ebf680e8c7e50/artifacts
+end_time: 1752796037624
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 06609e2b42bd4db7ad0ebf680e8c7e50
+run_name: rebellious-moth-165
+run_uuid: 06609e2b42bd4db7ad0ebf680e8c7e50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796029761
+status: 3
+tags: []
+user_id: astin

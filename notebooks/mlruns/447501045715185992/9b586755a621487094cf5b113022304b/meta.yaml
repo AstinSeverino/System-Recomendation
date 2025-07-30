@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/9b586755a621487094cf5b113022304b/artifacts
+end_time: 1752796096325
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 9b586755a621487094cf5b113022304b
+run_name: fun-frog-655
+run_uuid: 9b586755a621487094cf5b113022304b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796083478
+status: 3
+tags: []
+user_id: astin

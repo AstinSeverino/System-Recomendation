@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/8731d03aa8be484bac10be595941b4f7/artifacts
+end_time: 1753399707526
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 8731d03aa8be484bac10be595941b4f7
+run_name: sneaky-snail-582
+run_uuid: 8731d03aa8be484bac10be595941b4f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399701578
+status: 3
+tags: []
+user_id: astin

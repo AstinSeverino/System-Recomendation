@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/f1729e84e5914238be5485ff99ec0f85/artifacts
+end_time: 1753399684201
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: f1729e84e5914238be5485ff99ec0f85
+run_name: traveling-moose-281
+run_uuid: f1729e84e5914238be5485ff99ec0f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399674550
+status: 3
+tags: []
+user_id: astin

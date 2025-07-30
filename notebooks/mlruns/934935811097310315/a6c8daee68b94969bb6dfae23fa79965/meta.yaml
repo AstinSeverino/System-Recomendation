@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/a6c8daee68b94969bb6dfae23fa79965/artifacts
+end_time: 1753409520002
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: a6c8daee68b94969bb6dfae23fa79965
+run_name: big-duck-435
+run_uuid: a6c8daee68b94969bb6dfae23fa79965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409507781
+status: 3
+tags: []
+user_id: astin

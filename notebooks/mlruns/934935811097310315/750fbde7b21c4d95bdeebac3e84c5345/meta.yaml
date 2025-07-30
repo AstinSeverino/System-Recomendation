@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/750fbde7b21c4d95bdeebac3e84c5345/artifacts
+end_time: 1753399710059
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 750fbde7b21c4d95bdeebac3e84c5345
+run_name: fun-goat-38
+run_uuid: 750fbde7b21c4d95bdeebac3e84c5345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399707529
+status: 3
+tags: []
+user_id: astin

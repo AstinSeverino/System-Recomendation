@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/78d128de52e1424ca259b213b3e16791/artifacts
+end_time: 1752796215591
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 78d128de52e1424ca259b213b3e16791
+run_name: adorable-finch-922
+run_uuid: 78d128de52e1424ca259b213b3e16791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796207374
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/59417aa8e206450fa4aedf50e52eed84/artifacts
+end_time: 1753409721814
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 59417aa8e206450fa4aedf50e52eed84
+run_name: resilient-foal-661
+run_uuid: 59417aa8e206450fa4aedf50e52eed84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409715836
+status: 3
+tags: []
+user_id: astin

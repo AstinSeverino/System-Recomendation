@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/dd055b69f0554600ae715ff0e4982965/artifacts
+end_time: 1752795505715
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: dd055b69f0554600ae715ff0e4982965
+run_name: kindly-moose-140
+run_uuid: dd055b69f0554600ae715ff0e4982965
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795497310
+status: 3
+tags: []
+user_id: astin

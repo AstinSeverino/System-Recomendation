@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/bbbaa47a6a4a4381bcc8dc8be6564e52/artifacts
+end_time: 1753399563361
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: bbbaa47a6a4a4381bcc8dc8be6564e52
+run_name: receptive-ox-975
+run_uuid: bbbaa47a6a4a4381bcc8dc8be6564e52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399555250
+status: 3
+tags: []
+user_id: astin

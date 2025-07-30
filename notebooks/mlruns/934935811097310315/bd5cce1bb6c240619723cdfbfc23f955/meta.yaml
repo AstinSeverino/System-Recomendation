@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/bd5cce1bb6c240619723cdfbfc23f955/artifacts
+end_time: 1753409634723
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: bd5cce1bb6c240619723cdfbfc23f955
+run_name: indecisive-lynx-633
+run_uuid: bd5cce1bb6c240619723cdfbfc23f955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409628984
+status: 3
+tags: []
+user_id: astin

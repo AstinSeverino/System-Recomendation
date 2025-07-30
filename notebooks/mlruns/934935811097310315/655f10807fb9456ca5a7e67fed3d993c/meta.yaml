@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/655f10807fb9456ca5a7e67fed3d993c/artifacts
+end_time: 1753399701573
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 655f10807fb9456ca5a7e67fed3d993c
+run_name: monumental-jay-189
+run_uuid: 655f10807fb9456ca5a7e67fed3d993c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399689146
+status: 3
+tags: []
+user_id: astin

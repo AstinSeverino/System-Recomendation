@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/73fe0511b4904ccead41b4c036456111/artifacts
+end_time: 1752542757250
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 73fe0511b4904ccead41b4c036456111
+run_name: bustling-robin-373
+run_uuid: 73fe0511b4904ccead41b4c036456111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542744532
+status: 3
+tags: []
+user_id: astin

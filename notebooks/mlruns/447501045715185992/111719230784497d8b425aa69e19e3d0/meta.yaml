@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/111719230784497d8b425aa69e19e3d0/artifacts
+end_time: 1752795613835
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 111719230784497d8b425aa69e19e3d0
+run_name: resilient-newt-134
+run_uuid: 111719230784497d8b425aa69e19e3d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795602517
+status: 3
+tags: []
+user_id: astin

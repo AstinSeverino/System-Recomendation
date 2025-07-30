@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/77350b3f14c1466a882b001d2409e882/artifacts
+end_time: 1753399719314
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 77350b3f14c1466a882b001d2409e882
+run_name: useful-bear-479
+run_uuid: 77350b3f14c1466a882b001d2409e882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399716860
+status: 3
+tags: []
+user_id: astin

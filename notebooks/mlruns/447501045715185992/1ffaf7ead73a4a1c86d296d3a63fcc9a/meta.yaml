@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/1ffaf7ead73a4a1c86d296d3a63fcc9a/artifacts
+end_time: 1752795445749
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 1ffaf7ead73a4a1c86d296d3a63fcc9a
+run_name: likeable-zebra-419
+run_uuid: 1ffaf7ead73a4a1c86d296d3a63fcc9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795438753
+status: 3
+tags: []
+user_id: astin

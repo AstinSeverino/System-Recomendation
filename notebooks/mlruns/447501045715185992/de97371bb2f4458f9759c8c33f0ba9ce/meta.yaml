@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/de97371bb2f4458f9759c8c33f0ba9ce/artifacts
+end_time: 1752796241566
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: de97371bb2f4458f9759c8c33f0ba9ce
+run_name: unruly-fish-641
+run_uuid: de97371bb2f4458f9759c8c33f0ba9ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796232238
+status: 3
+tags: []
+user_id: astin

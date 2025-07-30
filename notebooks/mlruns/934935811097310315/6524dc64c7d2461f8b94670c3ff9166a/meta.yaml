@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/6524dc64c7d2461f8b94670c3ff9166a/artifacts
+end_time: 1753399503805
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 6524dc64c7d2461f8b94670c3ff9166a
+run_name: efficient-sheep-386
+run_uuid: 6524dc64c7d2461f8b94670c3ff9166a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399483921
+status: 3
+tags: []
+user_id: astin

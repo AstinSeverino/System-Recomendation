@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/3105fd3f04ef49db813159726aef2a23/artifacts
+end_time: 1752796279771
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 3105fd3f04ef49db813159726aef2a23
+run_name: zealous-perch-629
+run_uuid: 3105fd3f04ef49db813159726aef2a23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796269076
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/a2af40cff143436084ece8a1917a0457/artifacts
+end_time: 1752795530376
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: a2af40cff143436084ece8a1917a0457
+run_name: upset-bear-974
+run_uuid: a2af40cff143436084ece8a1917a0457
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795521959
+status: 3
+tags: []
+user_id: astin

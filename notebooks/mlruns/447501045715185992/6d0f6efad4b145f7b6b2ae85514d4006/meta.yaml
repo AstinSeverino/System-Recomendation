@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/6d0f6efad4b145f7b6b2ae85514d4006/artifacts
+end_time: 1752796045928
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 6d0f6efad4b145f7b6b2ae85514d4006
+run_name: crawling-pug-591
+run_uuid: 6d0f6efad4b145f7b6b2ae85514d4006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796037627
+status: 3
+tags: []
+user_id: astin

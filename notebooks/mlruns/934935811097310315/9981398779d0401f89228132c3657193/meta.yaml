@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/9981398779d0401f89228132c3657193/artifacts
+end_time: 1753399616878
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 9981398779d0401f89228132c3657193
+run_name: dashing-quail-110
+run_uuid: 9981398779d0401f89228132c3657193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399600333
+status: 3
+tags: []
+user_id: astin

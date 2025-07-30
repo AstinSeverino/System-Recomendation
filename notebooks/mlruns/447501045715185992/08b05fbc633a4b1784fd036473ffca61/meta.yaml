@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/08b05fbc633a4b1784fd036473ffca61/artifacts
+end_time: 1752542803397
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 08b05fbc633a4b1784fd036473ffca61
+run_name: upbeat-perch-393
+run_uuid: 08b05fbc633a4b1784fd036473ffca61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542794275
+status: 3
+tags: []
+user_id: astin

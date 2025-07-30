@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/62bda09d091941b1ace294def0f63205/artifacts
+end_time: 1753409430588
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 62bda09d091941b1ace294def0f63205
+run_name: traveling-colt-906
+run_uuid: 62bda09d091941b1ace294def0f63205
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409420278
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/fb24d75e4a4b48198012056b3a8c43e5/artifacts
+end_time: 1752542847388
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: fb24d75e4a4b48198012056b3a8c43e5
+run_name: gaudy-bass-349
+run_uuid: fb24d75e4a4b48198012056b3a8c43e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542838628
+status: 3
+tags: []
+user_id: astin

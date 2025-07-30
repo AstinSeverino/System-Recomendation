@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/1a64e40c176b4907b4f5ec2be9197dd8/artifacts
+end_time: 1753399712556
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 1a64e40c176b4907b4f5ec2be9197dd8
+run_name: secretive-zebra-113
+run_uuid: 1a64e40c176b4907b4f5ec2be9197dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399710063
+status: 3
+tags: []
+user_id: astin

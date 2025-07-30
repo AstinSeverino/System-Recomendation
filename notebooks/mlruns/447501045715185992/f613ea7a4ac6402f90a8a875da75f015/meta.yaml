@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/f613ea7a4ac6402f90a8a875da75f015/artifacts
+end_time: 1752795582837
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: f613ea7a4ac6402f90a8a875da75f015
+run_name: nebulous-hound-742
+run_uuid: f613ea7a4ac6402f90a8a875da75f015
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795574021
+status: 3
+tags: []
+user_id: astin

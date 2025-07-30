@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/494962c5199c4236900d2373b8a4a744/artifacts
+end_time: 1753399741212
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 494962c5199c4236900d2373b8a4a744
+run_name: fun-gnat-885
+run_uuid: 494962c5199c4236900d2373b8a4a744
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399739989
+status: 3
+tags: []
+user_id: astin

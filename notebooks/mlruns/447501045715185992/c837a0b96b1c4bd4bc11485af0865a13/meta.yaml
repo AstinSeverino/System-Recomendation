@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/c837a0b96b1c4bd4bc11485af0865a13/artifacts
+end_time: 1752795438749
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: c837a0b96b1c4bd4bc11485af0865a13
+run_name: magnificent-kit-933
+run_uuid: c837a0b96b1c4bd4bc11485af0865a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752795430249
+status: 3
+tags: []
+user_id: astin

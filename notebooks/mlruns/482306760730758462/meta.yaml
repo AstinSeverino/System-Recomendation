@@ -1,0 +1,6 @@
+artifact_location: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/482306760730758462
+creation_time: 1752538128439
+experiment_id: '482306760730758462'
+last_update_time: 1752538128439
+lifecycle_stage: active
+name: KMeans_Optuna_Experiment

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/982715580a54465d9a0cfb1659d1aae3/artifacts
+end_time: 1753399550454
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 982715580a54465d9a0cfb1659d1aae3
+run_name: wise-wren-805
+run_uuid: 982715580a54465d9a0cfb1659d1aae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753399529706
+status: 3
+tags: []
+user_id: astin

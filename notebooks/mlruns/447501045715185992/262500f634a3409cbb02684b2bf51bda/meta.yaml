@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/262500f634a3409cbb02684b2bf51bda/artifacts
+end_time: 1752796105581
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: 262500f634a3409cbb02684b2bf51bda
+run_name: adventurous-elk-915
+run_uuid: 262500f634a3409cbb02684b2bf51bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752796096328
+status: 3
+tags: []
+user_id: astin

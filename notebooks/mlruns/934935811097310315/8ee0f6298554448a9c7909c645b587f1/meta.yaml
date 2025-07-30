@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/934935811097310315/8ee0f6298554448a9c7909c645b587f1/artifacts
+end_time: 1753409545039
+entry_point_name: ''
+experiment_id: '934935811097310315'
+lifecycle_stage: active
+run_id: 8ee0f6298554448a9c7909c645b587f1
+run_name: ambitious-moose-713
+run_uuid: 8ee0f6298554448a9c7909c645b587f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753409539262
+status: 3
+tags: []
+user_id: astin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/astin/Documents/MypythonBriefcase/ml/practice/system_recomendation/notebooks/mlruns/447501045715185992/aa20cb30dd77482a97355023aa9f95e9/artifacts
+end_time: 1752542919894
+entry_point_name: ''
+experiment_id: '447501045715185992'
+lifecycle_stage: active
+run_id: aa20cb30dd77482a97355023aa9f95e9
+run_name: placid-elk-892
+run_uuid: aa20cb30dd77482a97355023aa9f95e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752542912000
+status: 3
+tags: []
+user_id: astin

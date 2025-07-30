@@ -1,0 +1,17 @@
+# NumPy y SciPy
+numpy==1.26.4
+scipy==1.13.1
+
+# Pandas y scikit‑learn
+pandas==2.2.2
+scikit-learn==1.5.1
+joblib==1.4.2
+threadpoolctl==3.5.0
+
+# MLflow (usa la 2.12.1 para ruedas de PyArrow disponibles)
+mlflow==2.12.1
+
+# Fuerza PyArrow a la última rueda disponible
+pyarrow==15.0.2
+pystan==2.19.1.1
+prophet==1.1.5
