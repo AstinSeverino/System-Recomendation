@@ -35,7 +35,7 @@ with DAG(
     generate_recs = PythonOperator(
         task_id='generate_recommendations',
         python_callable=run_recommendations,
-        op_kwargs={'track_name': 'NombreEjemplo', 'top_n': 10}
+        op_kwargs={'track_name': 'Falling Down - Bonus Track', 'top_n': 10}
     )
 
     setup_log >> generate_recs

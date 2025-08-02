@@ -7,6 +7,9 @@ pandas==2.2.2
 scikit-learn==1.5.1
 joblib==1.4.2
 threadpoolctl==3.5.0
+kaggle==1.7.4.5
+kagglehub==0.3.12
+kagglehub[pandas-datasets]==0.3.12
 
 # MLflow (usa la 2.12.1 para ruedas de PyArrow disponibles)
 mlflow==2.12.1

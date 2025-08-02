@@ -4,7 +4,7 @@ from src.data_preprocessing import preprocess
 from src.model import ContentBasedRecommender
 from src.config_env import OUTPUT_PATH
 
-def run_recommendations(track_name: str, top_n: int = 10) -> pd.DataFrame:
+def run_recommendations(track_name: str , top_n: int = 10) -> pd.DataFrame:
     """
     Flujo completo: carga, preprocesa, entrena y genera recomendaciones.
     """
@@ -16,4 +16,6 @@ def run_recommendations(track_name: str, top_n: int = 10) -> pd.DataFrame:
     
     recs = model.recommend(track_name, top_n)
     recs.to_csv(OUTPUT_PATH, index=False)
+    print(f"Recomendaciones guardadas en {OUTPUT_PATH}")
+    print(recs[['Track', 'Artist', 'Album', 'similarity']].head(top_n))
     return recs
