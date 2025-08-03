@@ -1,0 +1,22 @@
+# Configuración sensible
+config_env/
+
+# Notebooks (Jupyter)
+*.ipynb
+
+# Python cache y compilados
+**/__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Logs, temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
