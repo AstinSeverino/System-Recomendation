@@ -1,4 +1,0 @@
-# config_env/__init__.py
-from .config_env import DATA_PATH, OUTPUT_PATH, MLFLOW_TRACKING_URI
-
-__all__ = ["DATA_PATH", "OUTPUT_PATH", "MLFLOW_TRACKING_URI"]
