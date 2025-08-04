@@ -1,41 +1,41 @@
-import os, sys
-# __file__ → .../orchestration/dags/recommendation_dag.py
-dag_folder = os.path.dirname(__file__)               # …/orchestration/dags
-project_root = os.path.abspath(os.path.join(dag_folder, '..', '..'))  
-# project_root → …/system_recomendation
-if project_root not in sys.path:
-    sys.path.insert(0, project_root)
-    
-from airflow import DAG
-from airflow.operators.python import PythonOperator
+# orchestration/dags/recommendation_dag.py
+from airflow.decorators import dag, task
 from datetime import datetime
-from src.utils import setup_logging
+# ← cambia esta línea
+# from system_recomendation.src.recommendation import run_recommendations
+# import os, sys
+# import run_recommendations
+# sys.path.append('/opt/airflow/dags/system_recomendation/practice/system_recomendation/src/recommendation.py')  # asegurarse de que src esté en el path
+
+import os, sys
+# sys.path.insert(0,
+#     os.path.join(
+#         os.path.dirname(__file__),             # …/orchestration/dags
+#         '..', '..',                            # sube dos niveles
+#         'src'                                  # carpeta src
+#     )
+# )
+# from recommendation import run_recommendations
+sys.path.insert(
+    0,
+    "/opt/airflow/dags/system_recomendation/practice/system_recomendation"
+)
 from src.recommendation import run_recommendations
 
-default_args = {
-    'owner': 'airflow',
-    'depends_on_past': False,
-    'retries': 1,
-}
-
-with DAG(
-    dag_id='recommendation_cosine_similarity',
-    default_args=default_args,
-    description='Pipeline de recomendaciones basadas en Cosine Similarity',
-    schedule_interval='@daily',
-    start_date=datetime(2025, 1, 1),
+@dag(
+    schedule=None,  # sólo se lanza via API
+    start_date=datetime(2024,1,1),
     catchup=False,
-) as dag:
+)
+def recommendation_cosine_similarity():
+    @task()
+    def generate_recommendations(track_name: str, top_n: int = 10):
+        return run_recommendations(track_name=track_name, top_n=top_n).to_dict()
 
-    setup_log = PythonOperator(
-        task_id='setup_logging',
-        python_callable=setup_logging
+    # leer directamente de dag_run.conf
+    generate_recommendations(
+        track_name="{{ dag_run.conf['track_name'] }}",
+        top_n="{{ dag_run.conf.get('top_n', 10) }}"
     )
 
-    generate_recs = PythonOperator(
-        task_id='generate_recommendations',
-        python_callable=run_recommendations,
-        op_kwargs={'track_name': 'Falling Down - Bonus Track', 'top_n': 10}
-    )
-
-    setup_log >> generate_recs
+dag = recommendation_cosine_similarity()

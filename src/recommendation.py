@@ -10,6 +10,8 @@ def run_recommendations(track_name: str , top_n: int = 10) -> pd.DataFrame:
     """
     df = load_raw_data()
     X_scaled, meta = preprocess(df)
+    top_n = int(top_n)          # <─ convierte sea cual sea el tipo que llegue
+
     
     model = ContentBasedRecommender()
     model.fit(X_scaled, meta)
