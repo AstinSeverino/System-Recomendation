@@ -30,7 +30,11 @@ from src.recommendation import run_recommendations
 def recommendation_cosine_similarity():
     @task()
     def generate_recommendations(track_name: str, top_n: int = 10):
-        return run_recommendations(track_name=track_name, top_n=top_n).to_dict()
+        df = run_recommendations(track_name, int(top_n))
+        return df[['Track', 'Artist', 'Album', 'similarity']]\
+             .to_dict(orient="records")
+
+
 
     # leer directamente de dag_run.conf
     generate_recommendations(

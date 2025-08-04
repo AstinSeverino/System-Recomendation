@@ -28,6 +28,7 @@ def load_raw_data(path: str = DATA_PATH) -> pd.DataFrame:
         df.dropna(inplace=True)
         df.reset_index(drop=True, inplace=True)
         logging.info(f"Dataset cargado con {len(df)} registros.")
+        df.drop_duplicates(subset=['Track','Album'], inplace=True )
         return df
 
     except Exception as e:
